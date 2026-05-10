@@ -1,0 +1,136 @@
+body{
+    background-color: black; 
+    color: white;
+}
+h1{
+    color: green;
+    text-shadow: 2px 2px 2px yellowgreen;
+    text-align: center;
+}
+.mainperiod1{
+    display: flex;
+}
+.period1{
+    border: 2px solid black;
+    width: 80px;
+    height: 85px;
+    background-color: red;
+}
+.number{
+    line-height: 0.001px;
+    font-size: 17px;
+    text-align: left;
+}
+.symbol{
+    line-height: 0.00001;
+    font-size: 30px;
+    text-align: center;
+}
+.name{
+    line-height: 0.001px;
+    font-size: 15px;
+    text-align: center;
+}
+.period1:hover{
+    background-color: goldenrod;
+    box-shadow: 1px 1px 1px 1px black;
+}
+.empty{
+ width: 80px;
+    height: 85px;
+    border: transparent;
+       
+}
+.period2{
+border: 2px solid black;
+    width: 80px;
+    height: 85px;
+    background-color: green;
+}
+.period2:hover{
+    background-color: yellowgreen;
+    box-shadow: 1px 1px 1px 1px black;
+
+}
+.mainperiod2{
+    display: flex;
+}
+.mainperiod3{
+    display: flex;
+}
+.period3{
+    border: 2px solid black;
+    width: 80px;
+    height: 85px;
+    background-color: darkcyan;
+}
+.period3:hover{
+    background-color: lightcyan;
+    box-shadow: 1px 1px 1px 1px black;
+    color: black;
+}
+.mainperiod4{
+    display: flex;
+}
+.period4{
+    border: 2px solid black;
+    width: 80px;
+    height: 85px;
+    background-color: orangered;
+}
+.period4:hover{
+    background-color: orange;
+    box-shadow: 1px 1px 1px 1px black;
+}
+.mainperiod5{
+    display: flex;
+}
+.period5{
+    border: 2px solid black;
+    width: 80px;
+    height: 85px;
+    background-color: purple;
+}
+.period5:hover{
+    background-color: lightblue;
+    box-shadow: 1px 1px 1px 1px black;
+    color: black;
+}
+.mainperiod6{
+    display: flex;
+}
+.period6{
+    border: 2px solid black;
+    width: 80px;
+    height: 85px;
+    background-color: royalblue;
+}
+.period6special{
+    border: 2px solid black;
+    width: 80px;
+    height: 85px;
+    background-color: red
+}
+.period6:hover{
+    background-color: lightgreen;
+    box-shadow: 1px 1px 1px 1px black;
+    color: black;
+}
+.period6special:hover{
+    background-color: darkmagenta;
+    box-shadow: 1px 1px 1px 1px black ;
+}
+.mainperiod7{
+    display: flex;
+}
+.period7{
+       border: 2px solid black;
+    width: 80px;
+    height: 85px;
+    background-color: wheat;
+    color: black;
+}
+.period7:hover{
+    background-color: white;
+    color: black;
+}
